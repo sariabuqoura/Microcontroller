@@ -1,0 +1,28 @@
+1-Install Program & Close Runing App.
+2-Copy Patch to installation folder.
+3-Run This Patch & Press patch butten.
+4-Wait For a Few Minutes (Patching Process).
+5-And Thanks For Using Our Patch
+
+
+Thanks To My Friends In SonSivri.to:
+
+Pickit2 -  Metal -  Omar2009 - Top - PaulC - & ...
+
+And
+LCF-AT - quosego - Mr.eXoDia - ZzngkzZ -  ....
+
+And All Members In :
+Tuts4You.com , Cin1team.biz , TPODT , SonsivRi.to , Unreal-RCE , Eca.ir , ...  
+
+Best Regards! 
+PerTic@n : Persian UnderGrand  Cracker
+
+(Basic - C - Pascal)
+
+mb8051.exe  - mikroC8051.exe    - mP8051.exe
+mBARM.exe   - mikroCARM.exe     - mPARM.exe
+mBAvr.exe   - mikroCAvr.exe     - mPAvr.exe
+mBdsPIC.exe - mikroCdsPIC.exe   - mPdsPIC.exe
+mBPIC.exe   - mikroCPIC1618.exe - mPPIC.exe
+mBPIC32.exe - mikroCPIC32.exe   - mPPIC32.exe

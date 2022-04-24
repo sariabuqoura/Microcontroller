@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\INTERRUPT 2\MyProject.mcppi
+Project1=..\INTERRUPT 3\MyProject.mcppi
+Project2=MyProject.mcppi
+[ActiveProject]
+Index=2

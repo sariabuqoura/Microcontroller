@@ -1,0 +1,28 @@
+[DeviceName]
+Value=P16F877A
+[DeviceClock]
+Value=8
+[MainUnit]
+Value=ADC1.pbas
+[DeviceFlags]
+Count=3
+Value0=_LVP_OFF = $3F7F
+Value1=_WDT_OFF = $3FFB
+Value2=_HS_OSC = $3FFE
+[BuildSimDebug]
+Build=0
+SimDebug=0
+[ProjectFiles]
+Count=0
+[OtherFiles]
+Count=1
+Value0=D:\Mikro Projects\Mikro Basic\Lab3\ADC1\ADC1.pbas
+[TabIndex]
+Value=0
+[SearchPath]
+Count=3
+Value0=C:\Program Files (x86)\Mikroelektronika\mikroBasic\Defs\
+Value1=C:\Program Files (x86)\Mikroelektronika\mikroBasic\Uses\p16\
+Value2=D:\Mikro Projects\Mikro Basic\Lab3\ADC1\
+[EEPROMinfo]
+isused=0

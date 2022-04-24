@@ -1,0 +1,10 @@
+program FirstProject
+main :
+trisb.0=0
+run:
+portb.0=1
+delay_ms(1000)
+portb.0=0
+delay_ms(1000)
+goto run
+end.

@@ -1,0 +1,26 @@
+main
+	__CC2DW
+		____DoICP
+	Move1
+		timer
+		Row1
+			All25
+		Row2
+			All25
+		Row3
+			All25
+		Row4
+			All25
+		Row5
+			All25
+		All25
+		AllRows
+	timer
+	Move2
+		timer
+		All25
+		AllRows
+	Move3
+		All25
+		AllRows
+		move3sub1

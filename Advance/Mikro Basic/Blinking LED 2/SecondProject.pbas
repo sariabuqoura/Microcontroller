@@ -1,0 +1,10 @@
+program SecondProject
+main:
+trisb=%00000000
+run:
+portb=%00000000
+delay_ms(1000)
+portb=%11111111
+delay_ms(1000)
+goto run
+end.

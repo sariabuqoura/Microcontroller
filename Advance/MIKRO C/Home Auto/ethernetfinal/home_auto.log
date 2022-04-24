@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo32 -N"D:\Mikro Projects\MIKRO C\Home Auto\ethernetfinal\home_auto.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Mikro Projects\MIKRO C\Home Auto\ethernetfinal\" "home_auto.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_SPI_c345.mcl" "__Lib_EthEnc28j60.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	__ethenc28j60.h
+diagnostics: 100	123	Compiled Successfully	home_auto.c
+diagnostics: 0	127	All files Compiled in 32 ms	 
+hint: 0	1144	Used RAM (bytes): 875 (58%)  Free RAM (bytes): 640 (42%)	Used RAM (bytes): 875 (58%)  Free RAM (bytes): 640 (42%)
+hint: 0	1144	Used ROM (bytes): 11232 (34%)  Free ROM (bytes): 21536 (66%)	Used ROM (bytes): 11232 (34%)  Free ROM (bytes): 21536 (66%)
+diagnostics: 0	125	Project Linked Successfully	home_auto.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'home_auto.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 24 Apr 2016, 22:39:28	home_auto.mcppi

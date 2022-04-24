@@ -1,0 +1,27 @@
+program ADC2
+
+dim x as word
+dim y as string[5]
+
+main:
+    trisd=0
+    portd=0
+
+lcd_init (portb)
+lcd_cmd (lcd_cursor_off)
+lcd_cmd (lcd_clear)
+
+adcon1= %00000000
+
+run:
+x = adc_read (0)
+    if x>500 then
+    portd.0=1
+    else
+     portd.0=0
+    end if
+wordtostr (x,y)
+lcd_out (1,1,y)
+
+goto run
+end.

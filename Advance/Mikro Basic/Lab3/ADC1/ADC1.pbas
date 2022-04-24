@@ -1,0 +1,21 @@
+program ADC1
+
+dim x as word
+dim y as string[5]
+
+main:
+
+lcd_init (portb)
+lcd_cmd (lcd_cursor_off)
+lcd_cmd (lcd_clear)
+
+adcon1= %00000000
+
+run:
+x = adc_read (0)
+
+wordtostr (x,y)
+lcd_out (1,1,y)
+
+goto run
+end.
